@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.state/
+verification/
+*.bak-*
+*.exe
+*.dll
+*.cab
+.DS_Store
